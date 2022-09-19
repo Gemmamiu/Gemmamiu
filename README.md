@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my software development skills with some personal projects.**
 
-- 🌱 I’m currently learning **Python, JavaScript, NodeJS, NoSQL, MongoDB**
+- 🌱 I’m currently learning **Python and web development**
 
 - 👯 I’m looking for a **software development internship.**
 
